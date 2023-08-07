@@ -21,3 +21,8 @@ The maze is represented as a 2D array where:
 1 represents walls, which are not passable.
 0 represents open paths.
 9 represents the destination point.
+
+
+
+![Screenshot 2023-08-07 181140](https://github.com/mavi207/Maze_solver/assets/136497987/94130991-83a4-49d9-9502-d0377d430c08)
+
